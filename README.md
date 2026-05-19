@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlbertCulle
 - 👀 I’m interested in Sports and eGames
-- 🌱 I’m currently learning Data Science and CiberSegurity
+- 🌱 I’m currently learning Data Science and AI
 - 💞️ I’m looking to collaborate on "I don't Know"
 - 📫 How to reach me, some rutes, sure
 - 😄 Pronouns: Uff
